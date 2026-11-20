@@ -38,7 +38,7 @@ Software bom precisa funcionar bem na prática, sem excesso e sem depender de ca
 
 | Projeto | Tipo | Descrição | Repositório / Link |
 | --- | --- | --- | --- |
-| **TundraDrive** | Software Proprietário | Cliente de Google Drive para Linux desenvolvido em C# / .NET 10 com Avalonia UI, pensado para Fedora e Pop!_OS | [`TundraLab/TundraDrive`](https://github.com/TundraLab/TundraDrive) |
+| **TundraDrive** | Open Source | Cliente gratuito de Google Drive para Linux desenvolvido em C# / .NET 10 com Avalonia UI, pensado para Fedora e Pop!_OS | [`TundraLab/TundraDrive`](https://github.com/TundraLab/TundraDrive) |
 | **Tundra Media Pill** | Open Source | Extensão para a barra superior do GNOME Shell com controles MPRIS2, letras sincronizadas, waveform e widget na área de trabalho | [`TundraLab/Tundra-Media-Pill`](https://github.com/TundraLab/Tundra-Media-Pill) |
 | **Tundra Store** | Produto Comercial | Loja e catálogo oficial da TundraLab | [`tundrastore.tundralab.com.br`](https://tundrastore.tundralab.com.br) |
 
