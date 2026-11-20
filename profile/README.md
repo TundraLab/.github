@@ -22,7 +22,7 @@ A **TundraLab** é uma software house fundada e mantida por **Gustavo Henrique N
 Nosso trabalho se divide em duas frentes que caminham juntas:
 
 - **Produtos comerciais e software sob medida:** desenvolvimento de aplicações desktop, web e sistemas completos pensados para resolver problemas reais com código limpo, interface cuidada e foco em desempenho.
-- **Projetos open source:** utilitários, extensões e ferramentas abertas para a comunidade, com atenção especial ao ecossistema Linux e à experiência de uso no dia a dia.
+- **Projetos open source:** utilitários, extensões e ferramentas abertas para a comunidade, focadas em praticidade e uso no dia a dia.
 
 ## Visão
 
