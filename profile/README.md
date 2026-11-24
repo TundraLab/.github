@@ -39,7 +39,7 @@ Software bom precisa funcionar bem na prática, sem excesso e sem depender de ca
 | Projeto | Tipo | Descrição | Repositório / Link |
 | --- | --- | --- | --- |
 | **Custodia** | Source-Available | Custódia by TundraLab - Seus arquivos. Sempre seguros. Cliente Google Drive para Linux. | [`TundraLab/Custodia`](https://github.com/TundraLab/Custodia) |
-| **SoundPill** | Source-Available | Extensão para a barra superior do GNOME Shell com letras sincronizadas, waveform e widget na área de trabalho | [`TundraLab/SoundPill`](https://github.com/TundraLab/SoundPill) |
+| **SoundPill** | Source-Available | Extensão para a barra superior do GNOME Shell e KDE Plasma com letras sincronizadas, waveform e widget na área de trabalho | [`TundraLab/SoundPill`](https://github.com/TundraLab/SoundPill) |
 | **Tundra Store** | Produto Comercial | Loja e catálogo oficial da TundraLab | [`tundrastore.tundralab.com.br`](https://tundrastore.tundralab.com.br) |
 
 ## Onde encontrar a TundraLab
